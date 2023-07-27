@@ -28,3 +28,28 @@ body{
 .card{
     border-radius: 50px;
 }
+.fashion{
+    background-color:rgb(230, 202, 49);
+    border-radius: 30px;
+}
+.couple{
+    border-radius: 30px;
+}
+.fashion:hover{
+    background-color:  rgb(142, 192, 204);	
+}
+.label{
+    color:rgb(230, 202, 49); ;
+   
+}
+.pics{
+    border-radius: 60%;
+
+}
+img:hover{
+  box-shadow: 2px 3px 5px rgb(230, 202, 49);
+    opacity: .50}
+.caro{
+    box-shadow: 2px 2px 10px rgb(230, 202, 49);
+    }
+
